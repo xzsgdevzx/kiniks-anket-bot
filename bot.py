@@ -14,7 +14,7 @@ TOKEN = os.getenv("BOT_TOKEN")
 bot = Bot(TOKEN)
 dp = Dispatcher()
 
-ADMIN_GROUP_ID = -3864481386
+ADMIN_GROUP_ID = -1003864481386
 ADMIN_USERNAME = "@sergiodevv"
 
 
